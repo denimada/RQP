@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="icon" href="/favicon-64x64.png">
 		<script src="https://stage.app.roofle.com/roof-quote-pro-widget.js?id=3_GOF8ZflB649j2wxehTL" async></script>
 	<style>
 	.p1 {
@@ -15,11 +16,14 @@
 	</head>
 		<body>
 		<h1 class="p1">Roof Quote PRO</h1>
-		<h3 class="p2">Stage Environment</h3>
+		<h3 class="p2">Dev Environment</h3>
 		<ul>
         		<h4 class="p2">Floating widgets</h4>
 			<li>
-          		<a href="https://denimada.github.io/RQP/">Dev</a>
+          		<a href="https://denimada.github.io/RQP/index.html">Dev</a>
+        		</li>
+			<li>
+          		<a href="https://denimada.github.io/RQP/stage.html">Stage</a>
         		</li>
 			<li>
           		<a href="https://denimada.github.io/RQP/stagemarket.html">Stage Market</a>
@@ -32,6 +36,9 @@
         		</li>
 			<h4 class="p2">Full-page widgets</h4>
 			<li>
+          		<a href="https://denimada.github.io/RQP/qafull.html">Full-page Widget QA</a>
+        		</li>
+			<li>
           		<a href="https://denimada.github.io/RQP/devfull.html">Full-page Widget Dev</a>
         		</li>
 			<li>
@@ -42,4 +49,4 @@
         		</li>
 		</ul>
 		</body>
-</html> 
+</html>
